@@ -1,0 +1,11 @@
+{
+  "name": "@aventris/public-package",
+  "version": "1.0.0",
+  "description": "Default config with public repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
