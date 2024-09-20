@@ -1,6 +1,6 @@
 {
-  "name": "@testering/public-packager",
-  "version": "1.0.4",
+  "name": "@testering/public-package",
+  "version": "1.0.5",
   "description": "Default config with public repo",
   "main": "index.js",
   "scripts": {
