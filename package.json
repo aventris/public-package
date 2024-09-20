@@ -1,5 +1,5 @@
 {
-  "name": "@Aventris/public-packager",
+  "name": "@testering/public-packager",
   "version": "1.0.4",
   "description": "Default config with public repo",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "exit 0"
   },
   "publishConfig": {
-    "@Aventris:registry": "https://npm.pkg.github.com"
+    "@testering:registry": "https://npm.pkg.github.com"
   },
   "author": "",
   "license": "ISC"
