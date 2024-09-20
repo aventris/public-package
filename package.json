@@ -1,6 +1,6 @@
 {
   "name": "@Aventris/public-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Default config with public repo",
   "main": "index.js",
   "scripts": {
